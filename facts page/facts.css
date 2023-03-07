@@ -1,0 +1,93 @@
+body{
+    background-size: auto;
+    background-position: center;
+    background-position-y: 3%;
+    background-image: url("img/web background.png") ;
+    background-size: 1920px 1080px;
+}
+
+h1{
+    position: absolute;
+    top: 7%;
+    left: 31.5%;
+    transform-origin: center;
+    text-align: center;
+    color: rgb(18, 18, 215);
+    font-family: fatfrank, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50pt;
+    font-kerning: auto;
+}
+
+button{
+    position: absolute;
+    top: 37%;
+    left: 46%;
+    transform-origin: center;
+    background-color: rgb(18, 18, 215);
+    border: none;
+    color: aliceblue;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+/* .center{
+    margin: auto;
+  width: 50%;
+  padding: 10px;
+} */
+
+
+
+/* TRY 1 */
+
+
+/* .hidden{
+    display: none;
+} */
+
+#facts{
+    position: absolute;
+    transform-origin: center;
+    left: 36%;
+    top: 46%;
+}
+
+
+#image{
+    width: 400px;
+}
+
+
+
+
+/* TRY 2 
+ NO CSS REQUIRED */
+
+
+
+
+
+ .navbar a{
+    position: relative;
+    left: 42.5%;
+    float: left;
+    text-align: center;
+    font-family: fatfrank, sans-serif;
+    padding: 10px;
+    color: rgb(18, 18, 215);
+    text-decoration: none;
+    font-size: 21px;
+    transition: all 0.3s;
+}
+
+.navbar a:hover {
+    background-color: rgb(18, 18, 215);
+    color: aliceblue;
+
+}
