@@ -1,0 +1,246 @@
+body{
+    background-size: auto;
+    background-position: center;
+    background-position-y: 3%;
+    background-image: url("img/web background.png") ;
+    background-size: 1920px 1080px;
+    margin: 0%;
+}
+
+h1{
+    position: fixed;
+    top: 29.5%;
+    left: 37.3%;;
+    text-align: center;
+    color: rgb(18, 18, 215);
+    font-family: fatfrank, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50pt;
+    font-kerning: auto;
+}
+
+.navbar a{
+    position: relative;
+    left: 42.5%;
+    float: left;
+    text-align: center;
+    font-family: fatfrank, sans-serif;
+    padding: 10px;
+    color: rgb(18, 18, 215);
+    text-decoration: none;
+    font-size: 21px;
+    transition: all 0.3s;
+}
+
+.navbar a:hover {
+    background-color: rgb(18, 18, 215);
+    color: aliceblue;
+
+}
+
+.active {
+    color: aqua;
+}
+
+
+/* images for links below */
+
+#crane{
+    position: fixed;
+    top: 22.5%;
+    left: 21.5%;
+    height: 170px;
+    rotate: 16deg;
+
+}
+.card:hover .img-1{
+    display: none;
+}
+
+.hover_img-1{
+    display: none;
+}
+
+.card:hover .hover_img-1{
+   display: inline-block;
+   transform: scale(1.2);
+}
+
+#boat{
+    position: fixed;
+    top: 18%;
+    left: 40%;
+    height: 115px;
+}
+
+.card1:hover .img-2{
+    display: none;
+}
+
+.hover_img-2{
+    display: none;
+
+}
+.card1:hover .hover_img-2{
+   display: inline-block;
+   transform: scale(1.2);
+
+}
+
+#lily{
+    position: fixed;
+    height: 180px;
+    top: 57%;
+    left: 51%;
+}
+
+.card2:hover .img-3{
+    display: none;
+}
+
+.hover_img-3{
+    display: none;
+}
+
+.card2:hover .hover_img-3{
+   display: inline;
+   transform: scale(1.2);
+}
+
+#swan{
+    position: fixed;
+    height: 200px;
+    top: 55%;
+    left: 65%;
+    rotate: 12deg;
+}
+
+.card3:hover .img-4{
+    display: none;
+}
+
+.hover_img-4{
+    display: none;
+
+}
+.card3:hover .hover_img-4{
+   display: inline-block;
+   transform: scale(1.2);
+
+}
+
+#heart{
+    position: fixed;
+    max-height: 120px;
+    top: 20%;
+    left: 56%;
+    rotate: 25deg;
+}
+
+.card4:hover .img-5{
+    display: none;
+}
+
+.hover_img-5{
+    display: none;
+}
+
+.card4:hover .hover_img-5{
+   display: inline;
+   transform: scale(1.2);
+}
+
+#bag{
+    position: fixed;
+    max-height: 160px;
+    top: 19%;
+    left: 64%;
+    rotate: -25deg;
+}
+
+.card5:hover .img-6{
+    display: none;
+}
+
+.hover_img-6{
+    display: none;
+}
+
+.card5:hover .hover_img-6{
+    display: inline;
+    transform: scale(1.2);
+}
+
+#frog{
+    position: fixed;
+    max-height: 185px;
+    top: 26%;
+    left: 65%;
+    rotate: 10deg;
+}
+
+.card6:hover .img-7{
+    display: none;
+}
+
+.hover_img-7{
+    display: none;
+}
+
+.card6:hover .hover_img-7{
+    display: inline;
+    transform: scale(1.2);
+}
+
+#butterfly{
+    position: fixed;
+    max-height: 135px;
+    top: 57.5%;
+    left: 28%;
+    rotate: -30deg;
+}
+
+.card7:hover .img-8{
+    display: none;
+}
+
+.hover_img-8{
+    display: none;
+}
+
+.card7:hover .hover_img-8{
+    display: inline;
+    transform: scale(1.2);
+}
+
+#bird{
+    position: fixed;
+    max-height: 115px;
+    top: 58%;
+    left: 40%;
+    rotate: -330deg;
+}
+
+.card8:hover .img-9{
+    display: none;
+}
+
+.hover_img-9{
+    display: none;
+}
+
+.card8:hover .hover_img-9{
+    display: inline;
+    transform: scale(1.2);
+}
+
+
+/* information area */
+
+
+
+
+
+
+
